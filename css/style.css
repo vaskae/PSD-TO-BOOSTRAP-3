@@ -180,6 +180,19 @@ footer{
     margin-bottom: 30px;
     font-family: PlayfairDisplay-Regular;
 }
+.footer_right, .footer_left{
+   
+    width: 300px;
+    
+    
+   
+}
+.footer_left{
+    float: left;
+}
+.footer_right{
+    float: right;
+}
 footer span{
     margin-left: 20px;
     font-size: 14px;
