@@ -84,9 +84,11 @@ padding:0px 35px;
 }
 .lifestyle{
     
-   
-    margin-top: 100px;
+    
+    font-family: PlayfairDisplay-Regular;
+    margin: 100px auto 0 auto;
 }
+
 
 
 .lifestyle h3{
@@ -103,11 +105,7 @@ padding:0px 35px;
     font-family: PlayfairDisplay-Regular;
     
 }
-.lifestyle {
-    padding: 0 40px 0 40px;
-    font-family: PlayfairDisplay-Regular;
-    
-}
+
 .ps_style{
     
     color: #626262;
