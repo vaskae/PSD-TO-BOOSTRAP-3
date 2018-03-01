@@ -1,0 +1,193 @@
+@font-face{
+    font-family: PlayfairDisplay-Regular;
+    src:url(../fonts/PlayfairDisplay-Regular.ttf);
+    
+}
+@font-face{
+    font-family:"Inconsolata-Regular";
+    src:url(../fonts/Inconsolata-Regular.ttf);
+    
+}
+
+.head{
+    margin-top: 75px;
+}
+.navbar{
+    font-family: PlayfairDisplay-Regular;
+   
+}
+
+ .nav_bar ul li{
+padding:0px 35px;
+      
+    text-transform: uppercase;
+    font-size: 14px;
+   
+}
+.nav_bar ul li:hover{
+    background:#020202;
+    
+    
+}
+
+
+.logo{
+ margin-top: 10px;
+ padding-left:10px;
+    font-family: Inconsolata-Regular;
+    font-size: 30px;
+ text-transform: uppercase;
+
+}
+.navbar{
+    border: 0;
+}
+.baner img{
+    width: 100%;
+   
+}
+.gateway{
+    padding: 95px 40px 0 40px;
+    
+    
+   
+}
+.gateway h3{
+    color: #c7c1b6;
+    font-size: 14px;
+    font-family:Ubuntu;
+    text-transform: uppercase;
+}
+.gateway h1{
+   color: #626262;
+    font-size: 30px;
+    font-family: PlayfairDisplay-Regular;
+    margin-bottom: 20px;
+}
+.gateway p{
+   color: #626262;
+    font-size: 14px;
+    font-family: PlayfairDisplay-Regular;
+    text-align: justify;
+}
+.leave_comment{
+   padding: 0 40px 0 40px;
+}
+.leave_comment h3{
+     color: #c7c1b6;
+    font-size: 14px;
+    font-family:Ubuntu;
+    text-transform: uppercase;
+    
+    
+}
+.lifestyle{
+    
+   
+    margin-top: 100px;
+}
+
+
+.lifestyle h3{
+    color: #c7c1b6;
+    font-size: 14px;
+    font-family:Ubuntu;
+    text-transform: uppercase;
+    margin-top: 30px;
+}
+.lifestyle h1{
+   color: #626262;
+    font-size: 30px;
+    
+    font-family: PlayfairDisplay-Regular;
+    
+}
+.lifestyle {
+    padding: 0 40px 0 40px;
+    font-family: PlayfairDisplay-Regular;
+    
+}
+.ps_style{
+    
+    color: #626262;
+    
+    width: 420px;
+    
+    margin: 40px auto;
+}
+
+
+.ps_style p{
+    margin-top: 20px;
+}
+.st_img img{
+    margin: 0 auto;
+}
+.signup_form{
+    
+    margin-top: 195px;
+    
+}
+
+.signup_form h1{
+    font-family: PlayfairDisplay-Regular;
+    color: #333333;
+    margin-bottom: 80px;
+    font-size: 30px;
+}
+.signup_form form{
+    
+    font-size: 14px;
+    border-bottom: 1px solid black;
+    padding-bottom: 40px;
+    width: 400px;
+    margin: 0 auto;
+    
+    
+}
+.signup_form form input[type=text] {
+    border: none;
+    float: left;    
+    width: 200px;
+    
+}
+.signup_form form button {
+    
+    border: none;
+    background: none;
+    padding-top: 5px;
+    float: right;
+        
+   
+    
+}
+.loadmoer{
+    padding: 165px 0 1400px 0;
+    
+}
+.loadmoer button{
+    font-family: PlayfairDisplay-Regular;
+    background: none;
+    border: 1px solid;
+    font-size: 20px;
+    padding: 25px 35px;
+    
+}
+footer{
+    margin-bottom: 30px;
+    font-family: PlayfairDisplay-Regular;
+}
+footer span{
+    margin-left: 20px;
+    font-size: 14px;
+    font-weight: 800;
+}
+
+footer span a{
+   color:#626262;
+}
+footer .icon{
+  margin-left: 20px;
+    font-size: 18px;
+    
+}

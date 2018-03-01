@@ -1,0 +1,93 @@
+/*xs Divice */
+@media (max-width:767px) { 
+    .my_menu ul li ul li{
+   background-color:white;
+    padding: 10px 0;
+    
+}
+
+  .gateway{
+    padding: 95px 0 0 0;
+    border: 1px solid;
+      text-align: center;
+    
+   
+}  
+    .gateway h1{
+    font-size: 24px;
+    
+   
+}
+    
+    .lifestyle {
+    padding: 0 ;
+    font-family: PlayfairDisplay-Regular;
+    
+}
+    .ps_style{
+    
+   width: 100%;
+    
+   
+}
+  .lifestyle h1{
+   color: #626262;
+    font-size: 24px;
+    
+    font-family: PlayfairDisplay-Regular;
+    
+}  
+ .pull-right {float:none !important;}  
+   
+ 
+    .leave_comment{
+   padding: 0 ;
+}
+    
+  .ps_style{
+   text-align:center;
+  }
+  .signup_form form{
+    
+   
+    width: 100%;
+    
+}
+.st_img img{
+margin:0 auto;
+
+}
+    .signup_form h1{
+   
+    font-size: 24px;
+}
+.signup_form form input[type=text] {
+    border: none;
+    float: left;    
+    width: 80%;
+    
+}
+    .footer_right, .footer_left{
+  text-align:center;
+        margin: 10px 0;
+  } 
+}
+
+/*sm Divice */
+@media (min-width:767px) and (max-width:991px) {
+
+  
+}
+
+/*md Divice */
+@media (min-width:991px) and (max-width:1199px) {
+   
+   
+}
+/*lg Divice */
+@media (min-width:1200px) {
+    
+  
+ 
+    
+}
