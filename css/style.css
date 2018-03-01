@@ -66,9 +66,10 @@ padding:0px 35px;
 }
 .gateway p{
    color: #626262;
-    font-size: 14px;
+    line-height: 20px;
+    font-size: 12px;
     font-family: PlayfairDisplay-Regular;
-    text-align: justify;
+    
 }
 .leave_comment{
    padding: 0 40px 0 40px;
@@ -119,6 +120,8 @@ padding:0px 35px;
 
 .ps_style p{
     margin-top: 20px;
+     line-height: 20px;
+    font-size: 12px;
 }
 .st_img img{
     margin: 0 auto;
