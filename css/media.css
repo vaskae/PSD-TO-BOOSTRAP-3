@@ -70,6 +70,7 @@ margin:0 auto;
     .footer_right, .footer_left{
   text-align:center;
         margin: 10px 0;
+        width: 100%;
   } 
 }
 
