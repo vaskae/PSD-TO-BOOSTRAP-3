@@ -74,6 +74,23 @@ margin:0 auto;
   } 
 }
 
+@media (max-width:567px) { 
+  .signup_form form{
+    
+   
+    width: 100%;
+     
+    
+    
+    
+}
+
+    
+}
+
+
+
+
 /*sm Divice */
 @media (min-width:767px) and (max-width:991px) {
 
